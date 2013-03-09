@@ -1,0 +1,14 @@
+[Twitter]
+consumer_key =
+consumer_secret =
+access_key =
+access_secret =
+
+[SQL]
+host =
+user =
+passwd =
+dbid =
+
+[Klout]
+key =
